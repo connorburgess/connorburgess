@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connorburgess&label=Profile%20views&color=0e75b6&style=flat" alt="connorburgess" /> </p>
 
-- 🔭 I’m currently working on **Nomad Picks**
+- 🔭 On my personal time I’m working on **Nomad Picks**, a Next.js / Sanity app for travel gear discovery
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **tailwind, gsap**
-
-- 📫 How to reach me **connorburgesscodes@gmail.com**
-
-- ⚡ Fun fact **I love to learn new languages, explore cultures, an the digital nomad lifestyle**
+- ⚡ Outside of tech **I love to learn new languages, explore cultures, and the digital nomad lifestyle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
