@@ -2,6 +2,7 @@
 <h3 align="center">Software developer with a passion for creating awesome things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connorburgess&label=Profile%20views&color=0e75b6&style=flat" alt="connorburgess" /> </p>
+
 - I work at [Fiction Tribe](https://fictiontribe.com/) as a Software Developer.
 
 - The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a Webpack 5 / GSAP / SASS starter for your landing page development.
