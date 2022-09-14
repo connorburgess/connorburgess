@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Rust**
 
 - ⚡ Outside of tech **I love to learn new languages, explore cultures, and the digital nomad lifestyle**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
