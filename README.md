@@ -5,7 +5,7 @@
 
 - 🔭 On my personal time I’m working on **Nomad Picks**, a Next.js / Sanity app for travel gear discovery
 
-- The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a useful Webpack 5 boilerplate for your landing page development.
+- The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a Webpack 5 starter for your landing page development.
 
 - 🌱 I’m currently learning **Rust**
 
