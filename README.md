@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connorburgess&label=Profile%20views&color=0e75b6&style=flat" alt="connorburgess" /> </p>
 
-- 🔭 On my personal time I’m working on **Nomad Picks**, a Next.js / Sanity app for travel gear discovery
-
 - The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a Webpack 5 starter for your landing page development.
+
+- 🔭 On my personal time I’m working on **Nomad Picks**, a Next.js / Sanity app for travel gear discovery.
 
 - 🌱 I’m currently learning **Rust**
 
