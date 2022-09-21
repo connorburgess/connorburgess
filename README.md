@@ -2,9 +2,8 @@
 <h3 align="center"><span style="background-color: #B30000; color: #B30000 !important;">Software Engineer</span> with a passion for tinkering and creating awesome things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connorburgess&label=Profile%20views&color=0e75b6&style=flat" alt="connorburgess" /> </p>
-<p>Note: <a href="mailto:test@gmail.com">Reach out</a> for samples of my professional and current work from private repos. Most of my public repos are older and from school.
-  </p>
-- 
+<p>Feel free to <a href="mailto:test@gmail.com">Reach out</a> for samples of my professional and current work from private repos.</p>
+  
 - Employed: I work at [Fiction Tribe](https://fictiontribe.com/) as a Software Developer.
 
 - Open Source Lover: The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a Webpack 5 / GSAP / SASS starter for your landing page development.
