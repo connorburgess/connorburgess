@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://i.imgur.com/t6tKsLR.png" width="40"
->
+  <a href="https://www.linkedin.com/in/connorburgessdev/"><img src="https://i.imgur.com/t6tKsLR.png" width="40">
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
