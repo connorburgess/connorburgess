@@ -27,7 +27,3 @@
 <p><img align="left" src="https://gh-readme-dun.vercel.app/api/top-langs?username=connorburgess&show_icons=true&locale=en&layout=compact&count_private=true" alt="connorburgess" /></p>
 
 <p>&nbsp;<img align="center" src="https://gh-readme-dun.vercel.app/api?username=connorburgess&show_icons=true&locale=en&count_private=true" alt="connorburgess" /></p>
-
-
-[![Connor's GitHub stats](https://gh-readme-dun.vercel.app/api?username=connorburgess&amp;include_all_commits=true))](https://github.com/connorburgess/)
-
