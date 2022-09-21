@@ -12,7 +12,7 @@
 
 - **Learning**: I’m currently learning Rust 🦀, data structures and algorithms.
 
-- **Other fun stuff**: Outside of tech I love to learn languages (the spoken kind), explore cultures, and the digital nomad lifestyle
+- **Other fun stuff**: Outside of tech I love to learn languages (the spoken kind), explore cultures, and the digital nomad lifestyle.
 
 - **I recommend**: <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">Lo fi radio</a>
 
