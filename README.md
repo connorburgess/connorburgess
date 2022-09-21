@@ -2,7 +2,7 @@
 <h3 align="center"><span style="background-color: #B30000; color: #B30000 !important;">Software Engineer</span> with a passion for tinkering and creating awesome things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connorburgess&label=Profile%20views&color=0e75b6&style=flat" alt="connorburgess" /> </p>
-<p>Feel free to <a href="mailto:test@gmail.com">Reach out</a> for samples of my professional and current work from private repos.</p>
+<p>Feel free to <a href="mailto:test@gmail.com">Reach out</a> for samples of my professional and current work from private repos.</p> </br>
   
 - Employed: I work at [Fiction Tribe](https://fictiontribe.com/) as a Software Developer.
 
