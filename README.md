@@ -10,11 +10,11 @@
 
 - **Personal Projects**: I’m working on **Nomad Picks**, a Next.js / Sanity CMS app for travel gear discovery.
 
-- **Learning**: I’m currently learning **Rust 🦀, data structures and algorithms** 
+- **Learning**: I’m currently learning Rust 🦀, data structures and algorithms.
 
-- **Other fun stuff**: Outside of tech **I love to learn languages (the spoken kind), explore cultures, and the digital nomad lifestyle**
+- **Other fun stuff**: Outside of tech I love to learn languages (the spoken kind), explore cultures, and the digital nomad lifestyle
 
-- **I recommend**: 
+- **I recommend**: <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">Lo fi music</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
