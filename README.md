@@ -7,7 +7,7 @@
 
 - Open Source Lover: The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a Webpack 5 / GSAP / SASS starter for your landing page development.
 
-- Passionate Programmer: On my personal time I’m working on **Nomad Picks**, a Next.js / Sanity CMS app for travel gear discovery.
+- Personal Projects: I’m working on **Nomad Picks**, a Next.js / Sanity CMS app for travel gear discovery.
 
 - Learning: I’m currently learning **Rust 🦀** 
 
