@@ -14,7 +14,7 @@
 
 - **Other fun stuff**: Outside of tech I love to learn languages (the spoken kind), explore cultures, and the digital nomad lifestyle
 
-- **I recommend**: <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">Lo fi music</a>
+- **I recommend**: <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">Lo fi radio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
