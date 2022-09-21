@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connorburgess&label=Profile%20views&color=0e75b6&style=flat" alt="connorburgess" /> </p>
 <i>Feel free to <a href="mailto:test@gmail.com">reach out</a> for samples of my professional and current work from private repos.</i> </br>
   
-- **Employed**: I work at [Fiction Tribe](https://fictiontribe.com/) as a Software Developer.
+- **I work**: at [Fiction Tribe](https://fictiontribe.com/) as a Software Developer.
 
 - **Open Source**: The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a Webpack 5 / GSAP / SASS starter for your landing page development.
 
