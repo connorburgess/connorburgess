@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connorburgess&label=Profile%20views&color=0e75b6&style=flat" alt="connorburgess" /> </p>
 
-- I work at [Fiction Tribe](https://fictiontribe.com/) as a Software Developer.
+- Employed: I work at [Fiction Tribe](https://fictiontribe.com/) as a Software Developer.
 
-- The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a Webpack 5 / GSAP / SASS starter for your landing page development.
+- Open Source Lover: The latest open source project I've worked on is [Fiction Tribe Webpack](https://fictiontribe.com/os/webpack-boilerplate/), a Webpack 5 / GSAP / SASS starter for your landing page development.
 
-- On my personal time I’m working on **Nomad Picks**, a Next.js / Sanity CMS app for travel gear discovery.
+- Passionate Programmer: On my personal time I’m working on **Nomad Picks**, a Next.js / Sanity CMS app for travel gear discovery.
 
-- I’m currently learning **Rust 🦀** 
+- Learning: I’m currently learning **Rust 🦀** 
 
-- Outside of tech **I love to learn languages (the spoken kind), explore cultures, and the digital nomad lifestyle**
+- Other fun stuff: Outside of tech **I love to learn languages (the spoken kind), explore cultures, and the digital nomad lifestyle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
