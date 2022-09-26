@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Connor</h1>
-<h3 align="center"><span style="background-color: #B30000; color: #B30000 !important;">Passionate Software Engineer and tinkerer, a creator of awesome things.</h3>
+<h3 align="center"><span style="background-color: #B30000; color: #B30000 !important;">Software Engineer, tinkerer, a creator of awesome things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=connorburgess&label=Profile%20views&color=0e75b6&style=flat" alt="connorburgess" /> </p>
 <i>Feel free to <a href="mailto:connorburgesscoding@gmail.com">reach out</a> for samples of my professional and current work from private repos.</i> </br>
